@@ -3,7 +3,10 @@
 I'm Nasha (she/her), and I never know what to write here, so hi!  
 You can usually reach me on twitter @[hiramiyaa](https://twitter.com/hiramiyaa); Though I don't tweet so much anymore, I still check in!
 
-### Currently working on
+### Currently, professionally:
+Working in a large software development / SaaS hosted company, Infrastructure team - most of this is in private repos, go figure..
+
+### Currently, personally:
 - Creating tools for streamers and production teams
 - A bunch of interactive bots for Discord and Twitch (because there aren't enough of them...)
 - Playing around with all sorts of new technology and standards
